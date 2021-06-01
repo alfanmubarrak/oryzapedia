@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Oryzapedia</string>
+    <string name="fruits_name">Nama tanaman</string>
+    <string name="detail">Detail</string>
+    <string name="title_activity_launcher">Launcher</string>
+    <string name="list">Tampilan List</string>
+    <string name="about">Tentang Developer</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="todo">TODO</string>
+    <string name="bahasa_inggris">Bahasa Inggris</string>
+    <string name="english_name">English Name</string>
+    <string name="cari_buah">Cari Buah...</string>
+    <string name="more" />
+</resources>
